@@ -10,7 +10,7 @@ This repository contains the Go implementation of the API Proto Definitions for 
 
 To use this repository, follow these steps:
 ```
-go get -u github.com/itechzero/verse-proto-go@main
+go get -u github.com/versegeek/verse-proto-go@main
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ To use the API Protobuf files in your Go project, import the necessary packages 
 
 ```go
 import (
-    "github.com/itechzero/verse-proto-go"
+    "github.com/versegeek/verse-proto-go"
 )
 
 // Your code here...
