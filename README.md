@@ -1,6 +1,6 @@
 # README
 
-Welcome to the `verse-proto-go` repository!
+Welcome to the `go-generated` repository!
 
 ## Description
 
@@ -10,7 +10,7 @@ This repository contains the Go implementation of the API Proto Definitions for 
 
 To use this repository, follow these steps:
 ```
-go get -u github.com/versegeek/verse-proto-go@main
+go get -u github.com/versegeek/go-generated@main
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ To use the API Protobuf files in your Go project, import the necessary packages 
 
 ```go
 import (
-    "github.com/versegeek/verse-proto-go"
+    "github.com/versegeek/go-generated"
 )
 
 // Your code here...
